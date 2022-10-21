@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on front-end developement <br>
-🌱 I’m currently learning CSS,JS and React <br>
+🌱 I’m currently learning CSS, JS and React <br>
 📫 How to reach me: gabriellamperge@gmail.com <br>
 ⚡ Fun fact: I love apples 🍎🍎🍎 <br>
 
